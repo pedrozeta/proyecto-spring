@@ -12,4 +12,7 @@ public class HomeController {
 	public ModelAndView swaggerUi() {
 		return new ModelAndView("redirect:/swagger-ui/index.html");
 	}
+	
+	
+	
 }
